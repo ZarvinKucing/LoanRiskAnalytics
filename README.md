@@ -22,7 +22,7 @@
 The Installation process will get you a copy of the project up and running on your local machine for development and testing purposes
 1. Clone or download the project into your local machine.
 2. Unzip the project folder.
-3. Open the source file [CreditRiskAnalytics-DefaultModel](CreditRiskAnalytics-DefaultModel.ipynb) using [JypyterNotebook](http://jupyter.org/) and execute the file.
+3. Open the source file [CreditRiskAnalytics-DefaultModel](LoanRiskAnalytics-DefaultModel.ipynb) using [JypyterNotebook](http://jupyter.org/) and execute the file.
 4. Instead of step 3, use the classification model loaded in the pickle to classify default customers.
 
 ```python
@@ -45,12 +45,7 @@ The following list summarizes the packages/softwares used in this project. These
 ### Repository Contains
  - Data Folder -- Contains Raw Data Files
  - Problem Statement -- Case Study Business Problem Statement
- - [CreditRiskAnalytics Summary](CreditRiskAnalytics_Summary.pdf) -- Credit Risk Analytics Project Summary Report
- - [CreditRiskAnalytics-DefaultModel](CreditRiskAnalytics-DefaultModel.ipynb) -- Project Source Code File
+ - [CreditRiskAnalytics Summary](LoanRiskAnalytics_Summary.pdf) -- Credit Risk Analytics Project Summary Report
+ - [CreditRiskAnalytics-DefaultModel](LoanRiskAnalytics-DefaultModel.ipynb) -- Project Source Code File
  - [LogisticRegression-KSChart](LogisticRegression-KSChart.xlsx) -- Excel Template File for Lift and Gain Charts
  
-### License & CopyRight
-Copyright (c) 2018 [Niranjan Kumar](https://www.linkedin.com/in/niranjankumar-c/) Licensed under the [Apache License 2.0](LICENSE)
-
-### Trademarks
-All other trademarks referenced herein are the property of their respective owners.
