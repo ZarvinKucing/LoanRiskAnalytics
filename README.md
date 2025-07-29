@@ -9,3 +9,5 @@ For new customers we need to decide whether to extend credit or not by analyzing
 # Project Summary
 Brief Summary about the techniques used in the project. 
 For full report check out the Summary
+
+<img width="779" height="424" alt="Summary" src="https://github.com/user-attachments/assets/48d8777d-5c2f-4183-9aa8-22446f3a4f5d" />
