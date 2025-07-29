@@ -11,3 +11,6 @@ Brief Summary about the techniques used in the project.
 For full report check out the Summary
 
 <img width="779" height="424" alt="Summary" src="https://github.com/user-attachments/assets/48d8777d-5c2f-4183-9aa8-22446f3a4f5d" />
+
+ROC Curve - An ROC curve (receiver operating characteristic curve) is a graph showing the performance of a classification model at all classification thresholds.
+Finding the best cufoff point - which maximises the specificity and the sensitivity. This threshold point might not give the highest prediction in your model, but it wouldn't be biased towards positives or negatives.
